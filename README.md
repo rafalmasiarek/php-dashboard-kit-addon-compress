@@ -1,12 +1,47 @@
 # dashboard-kit-addon-compress
+
+
 [![Packagist Version](https://img.shields.io/packagist/v/rafalmasiarek/dashboard-kit-addon-compress)](https://packagist.org/packages/rafalmasiarek/dashboard-kit-addon-compress)
 [![Total Downloads](https://img.shields.io/packagist/dt/rafalmasiarek/dashboard-kit-addon-compress)](https://packagist.org/packages/rafalmasiarek/dashboard-kit-addon-compress)
 [![PHP](https://img.shields.io/packagist/php-v/rafalmasiarek/dashboard-kit-addon-compress)](https://packagist.org/packages/rafalmasiarek/dashboard-kit-addon-compress)
 [![License](https://img.shields.io/badge/license-BUSL--1.1-red)](https://github.com/rafalmasiarek/php-dashboard-kit-addon-compress/blob/main/LICENSE)
 
+
+
+
+
+
+
 HTML output compression middleware for [rafalmasiarek/dashboard-kit](https://github.com/rafalmasiarek/php-dashboard-kit).
 
 Collapses whitespace and strips HTML comments from every `text/html` response. Sensitive blocks (`<script>`, `<style>`, `<pre>`, `<textarea>`) are preserved verbatim.
+
+
+
+
+
+
+
+## License
+
+![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-red)
+
+Business Source License 1.1.
+
+Source available; commercial use restricted until 2099-01-01.
+
+
+
+
+See [LICENSE](LICENSE) for full details.
+
+For alternative licensing, [contact us](https://masiarek.pl/contact/?af_subject=Commercial+license+%E2%80%94+dashboard-kit-addon-compress&af_message=Hello%2C+I+am+interested+in+a+commercial+license+for+dashboard-kit-addon-compress.).
+
+
+
+## Authors
+
+- Rafał Masiarek | [website](https://masiarek.pl) | [github](https://github.com/rafalmasiarek)
 
 
 
@@ -214,24 +249,6 @@ Compress an HTML string. Steps: 1. Extract <!-- compress:off -->...<!-- compress
 </details>
 
 
-
-## License
-
-![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-red)
-
-Business Source License 1.1.
-
-Source available; commercial use restricted until 2099-01-01.
-
-
-For alternative licensing, contact: https://masiarek.pl/contact/?af_subject=Commercial+license+%E2%80%94+dashboard-kit-addon-compress&af_message=Hello%2C+I+am+interested+in+a+commercial+license+for+dashboard-kit-addon-compress.
-
-
-
-See [LICENSE](LICENSE) for full details.
-## Authors
-
-- Rafał Masiarek | [website](https://masiarek.pl) | [github](https://github.com/rafalmasiarek)
 
 
 <!-- references -->
