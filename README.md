@@ -10,17 +10,6 @@ Collapses whitespace and strips HTML comments from every `text/html` response. S
 
 
 
-## License
-![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-red)
-
-Business Source License 1.1.
-Source available; commercial use restricted until 2099-01-01.
-For alternative licensing, contact: https://masiarek.pl/contact/?af_subject=Commercial+license+%E2%80%94+dashboard-kit-addon-compress&af_message=Hello%2C+I+am+interested+in+a+commercial+license+for+dashboard-kit-addon-compress.
-See [LICENSE](LICENSE) for full details.
-## Authors
-
-- Rafał Masiarek | [website](https://masiarek.pl) | [github](https://github.com/rafalmasiarek)
-
 
 ## Installation
 
@@ -225,6 +214,24 @@ Compress an HTML string. Steps: 1. Extract <!-- compress:off -->...<!-- compress
 </details>
 
 
+
+## License
+
+![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-red)
+
+Business Source License 1.1.
+
+Source available; commercial use restricted until 2099-01-01.
+
+
+For alternative licensing, contact: https://masiarek.pl/contact/?af_subject=Commercial+license+%E2%80%94+dashboard-kit-addon-compress&af_message=Hello%2C+I+am+interested+in+a+commercial+license+for+dashboard-kit-addon-compress.
+
+
+
+See [LICENSE](LICENSE) for full details.
+## Authors
+
+- Rafał Masiarek | [website](https://masiarek.pl) | [github](https://github.com/rafalmasiarek)
 
 
 <!-- references -->
