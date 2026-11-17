@@ -25,7 +25,7 @@ context:
 
     Collapses whitespace and strips HTML comments from every `text/html` response. Sensitive blocks (`<script>`, `<style>`, `<pre>`, `<textarea>`) are preserved verbatim.
 
-includes:
+footer_includes:
   - docs/usage.md
   - docs/api.md
 
