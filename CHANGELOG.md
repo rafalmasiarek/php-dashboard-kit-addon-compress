@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/rafalmasiarek/php-dashboard-kit-addon-compress/compare/v1.0.1...v1.0.2) (2026-11-17)
+
+
+### Bug Fixes
+
+* rename includes to footer_includes in README.yml ([#7](https://github.com/rafalmasiarek/php-dashboard-kit-addon-compress/issues/7)) ([a5ef1f2](https://github.com/rafalmasiarek/php-dashboard-kit-addon-compress/commit/a5ef1f2ea01d5615db7a5c5d926d610f8e72e6a3))
+
 ## [1.0.1](https://github.com/rafalmasiarek/php-dashboard-kit-addon-compress/compare/v1.0.0...v1.0.1) (2026-09-13)
 
 
